@@ -1,1 +1,2 @@
 learn git add comman ~~~~~~
+had merge
